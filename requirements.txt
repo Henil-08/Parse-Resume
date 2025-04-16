@@ -1,0 +1,12 @@
+ipykernel==6.29.5
+matplotlib==3.10.1
+numpy==1.26.4
+pandas==2.2.3
+pdfplumber==0.11.6
+seaborn==0.13.2
+contractions==0.1.73
+datasets==3.5.0
+torch==2.1.0
+transformers==4.37.2
+scikit-learn==1.6.1
+hf-xet==1.0.2
